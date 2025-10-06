@@ -18,7 +18,7 @@ h1 {
 	font-size: _______;
 	padding: ____ ____ ____; /* You want three values. */
 	font-weight: _______;
-	text-transform: _______;
+	text-transform: uppercase;
 }
 
 
