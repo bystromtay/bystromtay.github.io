@@ -1,14 +1,14 @@
 /*CSS DOCUMENT*/
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+head {
+meta name= <"viewport" content="width=device-width, initial-scale=1.0">  
 <link rel="stylesheet" type="text/css" href="style.css">
-</head>
+}
 
 body {
-	background-color: _______; /* Not totally white. */
-	color: _______;  /* Not totally black. */
-	line-height: 140%; 	/* A little extra leading. */
+	background-color: ;
+	color: rgb (54,54,54);
+	line-height: 160;
 	font-family: _______;
 }
 
